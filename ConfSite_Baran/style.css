@@ -1,0 +1,42 @@
+
+
+tr:nth-child(1) td:nth-child(1) {
+    background-color: rgb(174, 248, 38);
+}
+
+tr:nth-child(1) td:nth-child(2) {
+    text-align: center;
+    background-color: red;
+}
+
+tr:nth-child(2) td:nth-child(1) {
+    background-color: rgb(15, 77, 170);
+}
+
+tr:nth-child(2) td:nth-child(2) {
+    background-color: rgb(126, 245, 209);
+}
+
+tr:nth-child(2) td:nth-child(3) {
+    background-color: rgb(3, 116, 82);
+}
+
+tr:nth-child(3) td:nth-child(1) {
+    background-color: rgb(110, 6, 105);
+}
+tr:nth-child(3) td:nth-child(2) {
+    text-align: center;
+    background-color: rgb(148, 87, 140);
+}
+
+tr:nth-child(4) td:nth-child(1) {
+    background-color: rgb(159, 245, 192);
+}
+
+tr:nth-child(4) td:nth-child(2) {
+    background-color: rgb(151, 166, 252);
+}
+
+tr:nth-child(4) td:nth-child(3) {
+    background-color: rgb(241, 157, 88);
+}
