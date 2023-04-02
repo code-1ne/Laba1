@@ -1,4 +1,10 @@
+.table-wrapper {
+    margin: 0 auto;
+  }  
 
+.parent {
+    text-align: center;
+}
 
 tr:nth-child(1) td:nth-child(1) {
     background-color: rgb(174, 248, 38);
